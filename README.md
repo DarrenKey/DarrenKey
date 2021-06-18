@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 -->
 
 Mainly programming in Python with about 6 years of experience and Swift with about 2 years of experience. Creator of TimeKeep.
-
-> > > > > > > 9f2118d27fc4d4f2fe8398586f534294cd9dd75f
