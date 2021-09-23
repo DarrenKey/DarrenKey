@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Skills and experience:
-Python - 6 years
+Python - 6 years\
 Swift - 2.5 years
 
 # Apps currently out
