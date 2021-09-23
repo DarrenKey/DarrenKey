@@ -12,5 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Skills and experience:
+Python - 6 years
+Swift - 2.5 years
 
-Mainly programming in Python with about 6 years of experience and Swift with about 2 years of experience. Creator of TimeKeep.
+#### Apps currently out
+Timekeep - All-in-1 Time management app
+https://apps.apple.com/us/app/timekeep-planner-and-tracker/id1499044751
+
+YEP Chat - Alternative chat for Twitch.tv. Utilizes Twitch, BetterTwitchTV, and FrankerFaceZ API and OAauth to access the APIs
+https://apps.apple.com/us/app/yep-chat-better-emotes/id1572330288
+
+#### Technical Showcase
