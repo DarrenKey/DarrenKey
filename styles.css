@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Poppins;
+  src: url(fonts/Poppins-Regular.ttf);
+  font-weight: regular;
+}
+@font-face {
+  font-family: Poppins;
+  src: url(fonts/Poppins-SemiBold.ttf);
+  font-weight: semibold;
+}
+
+* {
+  background-color: #191919;
+  color: white;
+  font-family: Poppins;
+  font-weight: semibold;
+}
