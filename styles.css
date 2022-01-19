@@ -15,31 +15,54 @@
   font-family: Poppins;
   font-weight: semibold;
   margin-left: 1rem;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   box-sizing: border-box;
+  margin: 0 0 0 1rem;
 }
 
 h1 {
-  font-size: 6vw;
+  font-size: 6rem;
+  margin-top: 3 rem;
+  margin-bottom: 3rem;
 }
 
 h2 {
-  font-size: 4vw;
+  font-size: 4rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 h3 {
-  font-size: 2vw;
+  font-size: 2rem;
+  margin-bottom: 1rem;
 }
 
 .descriptors {
   list-style-type: none;
-  font-size: 2vw;
-  line-height: 3vw;
+  font-size: 2rem;
+  padding: 0px;
 }
+
+li + li {
+  margin-top: 1rem;
+}
+
+li {
+  padding-left: 0px;
+  margin-left: 0px;
+}
+
+.project,
+.education,
+.award {
+  margin-bottom: 1rem;
+}
+
 #projects,
 #education,
 #awards {
   text-decoration: underline;
+  text-underline-offset: 20px;
 }
 
 #projects {
@@ -57,6 +80,7 @@ h3 {
 #education-title,
 #award-title {
   margin: 0%;
+  margin-bottom: 0.5rem;
   padding: 0%;
 }
 
@@ -65,15 +89,17 @@ h3 {
 .award-body {
   margin: 0%;
   padding: 0%;
+  margin-bottom: 0.5rem;
 }
 
 p {
-  font-size: 1vw;
+  font-size: 1rem;
 }
 
 .inline-icons {
   margin: 0px;
   display: inline-block;
+  font-size: 4rem;
 }
 
 .icon-links {
