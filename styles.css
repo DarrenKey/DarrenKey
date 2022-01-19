@@ -14,4 +14,67 @@
   color: white;
   font-family: Poppins;
   font-weight: semibold;
+  margin-left: 1rem;
+  border: 1px solid red;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 6vw;
+}
+
+h2 {
+  font-size: 4vw;
+}
+
+h3 {
+  font-size: 2vw;
+}
+
+.descriptors {
+  list-style-type: none;
+  font-size: 2vw;
+  line-height: 3vw;
+}
+#projects,
+#education,
+#awards {
+  text-decoration: underline;
+}
+
+#projects {
+  text-decoration-color: #c84b31;
+}
+#education {
+  text-decoration-color: #2d4263;
+}
+
+#awards {
+  text-decoration-color: #f3a712;
+}
+
+#project-title,
+#education-title {
+  margin: 0%;
+  padding: 0%;
+}
+
+.project-body,
+.education-body {
+  margin: 0%;
+  padding: 0%;
+}
+
+p {
+  font-size: 1vw;
+}
+
+.inline-icons {
+  margin: 0px;
+  display: inline-block;
+}
+
+.icon-links {
+  margin: 0 1rem 0 0;
+  display: inline-block;
 }
